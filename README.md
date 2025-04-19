@@ -1,6 +1,4 @@
 # Sound-Event-Detction
-# 🔊 Audio Classification Benchmarks & Code Repositories
-
 This repository serves as a centralized resource for popular **audio classification datasets** along with links to key **research papers** and their reproduction of **codebases**.
 
 ---
