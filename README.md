@@ -5,10 +5,11 @@ This repository serves as a centralized resource for popular **audio classificat
 
 ## 📄 Papers and Code Links
 
-| Paper Title | Dataset | Research Paper | Code Repo |
-|-------------|---------|----------------|-----------|
-| **CLAP: Learning Audio Concepts from Natural Language Supervision** | ESC-50 | [arXiv:2206.04769](https://arxiv.org/abs/2206.04769) | [GitHub](https://github.com/CoffeeCoder3009/CLAP-Learning-Audio-Concepts-From-Natural-Language-Supervision) |
-| **Natural Language Supervision for General-Purpose Audio Representations** |ESC-50 | [arXiv:2109.13056](https://arxiv.org/pdf/2309.05767) | [GitHub](https://github.com/CoffeeCoder3009/Natural-Language-Supervision-for-General-Purpose-Audio-Representations) |
+| Paper Title | Research Paper | Code Repo |
+|-------------|----------------|-----------|
+| **CLAP: Learning Audio Concepts from Natural Language Supervision** | [arXiv:2206.04769](https://arxiv.org/abs/2206.04769) | [GitHub](https://github.com/CoffeeCoder3009/CLAP-Learning-Audio-Concepts-From-Natural-Language-Supervision) |
+| **Natural Language Supervision for General-Purpose Audio Representations** | [arXiv:2109.13056](https://arxiv.org/pdf/2309.05767) | [GitHub](https://github.com/CoffeeCoder3009/Natural-Language-Supervision-for-General-Purpose-Audio-Representations) |
+| **AST: Audio Spectrogram Transformer** | [arXiv:2104.01778](https://arxiv.org/pdf/2104.01778) | [GitHub](https://github.com/asmisriva/AST-Audio-Spectrogram-Transformer_SED) |
 
 ---
 
