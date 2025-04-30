@@ -3,7 +3,7 @@ This repository serves as a centralized resource for popular **audio classificat
 
 ---
 
-## 📄 Papers and Code Links
+##  Papers and Code Links
 
 | Paper Title | Research Paper | Code Repo |
 |-------------|----------------|-----------|
@@ -13,7 +13,7 @@ This repository serves as a centralized resource for popular **audio classificat
 
 ---
 
-## 📊 Datasets Included
+##  Datasets Included
 
 - [ESC-50](https://github.com/karoldvl/ESC-50)
 - [AudioSet](https://research.google.com/audioset/)
@@ -22,17 +22,17 @@ This repository serves as a centralized resource for popular **audio classificat
 - [ClothoV2](https://zenodo.org/record/4783391)
 ---
 
-## ✨ Contributions Welcome
+##  Contributions Welcome
 
 If you know a research paper + its code for any of the datasets above, feel free to open a Pull Request or raise an Issue. Let's make this a one-stop benchmark tracker for audio ML!
 
 ---
 
-## 🧠 License
+##  License
 
 This repo is intended for research and educational purposes. Refer to each dataset or paper’s license individually.
 
-## 👨‍💻 Contributors
+##  Contributors
 
 - [Purvanshi Nijhawan](https://github.com/CoffeeCoder3009)
 - [Asmi Srivastava](https://github.com/asmisriva)
